@@ -1,0 +1,8 @@
+GOOG
+Google
+350
+1
+TST
+Tester
+380
+3
